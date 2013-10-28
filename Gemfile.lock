@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    builder (3.0.4)
+    hirb (0.7.1)
+    net-http-persistent (2.9)
+    t2-server (0.9.2)
+      hirb (>= 0.4.0)
+      net-http-persistent (~> 2.6)
+      taverna-baclava (~> 1.0.0)
+    taverna-baclava (1.0.0)
+      builder (~> 3.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  t2-server (= 0.9.2)
