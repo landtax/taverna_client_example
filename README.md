@@ -15,8 +15,10 @@ It includes files for configuring automatically rvm
 
 Once RVM is installed and used.
 
+```
 > gem install bundler
 > bundle install
+```
 
 And it is ready to use. There are 2 examples. One with on file parameter and another with parameter set stright in the commmand line.
 
